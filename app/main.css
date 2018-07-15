@@ -43,28 +43,28 @@ ul {
 }
 
 .header-right {
-  text-align: right;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 30px;
-  width: 75%;
+  	text-align: right;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	padding-top: 30px;
+  	width: 75%;
 }
 
 .header__logo {
-  height: 72px;
-  margin-top: 20px;
-  float: left;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 8px;  
+  	height: 72px;
+  	margin-top: 20px;
+  	float: left;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	padding: 8px;  
 }
 
 main {
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+  	width: 100%;
+  	margin-left: auto;
+  	margin-right: auto;
 }
 
 .feature-title {
